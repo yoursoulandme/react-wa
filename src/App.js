@@ -17,7 +17,7 @@ export default function App() {
             {" "}
             Open-source
           </a>{" "}
-          coded by
+          coded by{" "}
           <a
             href="https://www.linkedin.com/in/juliakuznetsovaqa/"
             target="_blank"

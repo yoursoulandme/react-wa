@@ -2,8 +2,8 @@
   font-family: arial, sans-serif;
   border: 1px solid #dadde1;
   padding: 16px;
-  border-radius: 4px;
-  color: rgb(95, 90, 90);
+  border-radius: 6px;
+  color: rgb(93, 73, 73);
 }
 
 .Weather h1 {
@@ -23,7 +23,7 @@
   font-weight: 100;
   line-height: 19px;
   list-style: none;
-  color: rgb(161, 146, 146);
+  color: rgb(107, 175, 179);
 }
 
 .Weather .temperature {
@@ -47,4 +47,8 @@
   position: relative;
   line-height: 1;
   top: -34px;
+}
+.Weather .btn-primary {
+  background-color: rgb(183, 234, 234);
+  color: black;
 }
