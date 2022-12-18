@@ -7,7 +7,7 @@
 }
 
 .Weather h1 {
-  font-size: 26px;
+  font-size: 29px;
   font-weight: 100;
   margin: 20px 0 0 0;
   line-height: 29px;
@@ -24,16 +24,16 @@
   line-height: 19px;
   list-style: none;
   color: rgb(107, 175, 179);
+  text-align: left;
 }
 
 .Weather .temperature {
   font-weight: bold;
-  color: rgb(33, 33, 33);
-  font-size: 64px;
+  color: rgb(93, 73, 73);
+  font-size: 70px;
   line-height: 64px;
-  margin-left: 5px;
   font-weight: 400;
-  margin-left: 10px;
+  margin-left: 15px;
 }
 
 .Weather canvas {
@@ -51,4 +51,8 @@
 .Weather .btn-primary {
   background-color: rgb(183, 234, 234);
   color: black;
+}
+
+.Weather .row {
+  text-align: center;
 }
